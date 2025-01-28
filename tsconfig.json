@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/firebase.js", "src/service/index.ts", "src/respository/firestore.js", "src/app/webhook/webhook.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/firebase.js", "src/service/index.ts", "src/respository/firestore.js", "src/app/api/webhook/webhook.ts"],
   "exclude": ["node_modules"]
 }

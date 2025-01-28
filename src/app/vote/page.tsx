@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import liff from '@line/liff';
 import { saveUserId, checkUser } from '@/service/index';
-import Style from '@/Style/style.module.css';
+import Style from '@/Style/vote.module.css';
 import JavaScript from '@/public/JavaScript.png';
 import Java from '@/public/Java.png';
 import PHP from '@/public/PHP.png';
