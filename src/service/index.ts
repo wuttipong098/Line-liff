@@ -2,12 +2,12 @@ import { getFirestore, collection, query, where, getDocs, addDoc } from 'firebas
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBc94PFXJbCabgz9FXYcs8Ehc7Uv3m6-Gs",
-  authDomain: "firestorebot-5ba06.firebaseapp.com",
-  projectId: "firestorebot-5ba06",
-  storageBucket: "firestorebot-5ba06.firebasestorage.app",
-  messagingSenderId: "137747711103",
-  appId: "1:137747711103:web:4954b02e81388f41da6b4a",
+  apiKey: "AIzaSyAT8dPaXDB_qZl93YB6vKcbd2CO8pq2F3g",
+  authDomain: "fir-line-liff-5502f.firebaseapp.com",
+  projectId: "fir-line-liff-5502f",
+  storageBucket: "fir-line-liff-5502f.firebasestorage.app",
+  messagingSenderId: "793234684057",
+  appId: "1:793234684057:web:82499ed446940e53c6a008",
 };
 
 // Initialize Firebase
